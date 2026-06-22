@@ -8,4 +8,4 @@ I work at [Google](https://github.com/google) on [Fonts](https://fonts.google.co
 
 I built a [data acquisition system](https://github.com/finnsjames/threepio) for [radio telescopes](https://skynet.unc.edu).
 
-[My CV](https://fsj.xyz/cv)
+[My CV](https://fsj.xyz/cv) • [My Printables](https://www.printables.com/@finnjames)
